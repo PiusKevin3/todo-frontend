@@ -3,9 +3,9 @@
 
 1. Clone the repo
 2. Run 
-## `yarn install` or ## `npm install`
+## `yarn install` 
 3. Then Run
-## `yarn start` or ## `npm start`
+## `yarn start`
 
 
 ** NB: Make sure you have the backend running
